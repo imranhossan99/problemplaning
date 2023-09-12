@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: orange;
+    
+}
+h2{
+    text-align: center;
+    color: darkgreen;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    height: 450px;
+    margin-bottom: 50px;
+}
